@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21835" started-at="2020-09-11T16:23:48Z" finished-at="2020-09-11T16:24:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21835" started-at="2020-09-11T16:23:48Z" finished-at="2020-09-11T16:24:10Z">
+      <class name="webdriver.Topic_02_Firefox_Chrome_Edge">
+        <test-method status="PASS" signature="TC_01_Run_On_Firefox()[pri:0, instance:webdriver.Topic_02_Firefox_Chrome_Edge@174d20a]" name="TC_01_Run_On_Firefox" duration-ms="4986" started-at="2020-09-11T23:23:48Z" finished-at="2020-09-11T23:23:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_Run_On_Firefox -->
+        <test-method status="PASS" signature="TC_02_Run_On_Chrome()[pri:0, instance:webdriver.Topic_02_Firefox_Chrome_Edge@174d20a]" name="TC_02_Run_On_Chrome" duration-ms="7122" started-at="2020-09-11T23:23:53Z" finished-at="2020-09-11T23:24:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_02_Run_On_Chrome -->
+        <test-method status="PASS" signature="TC_03_Run_On_Edge()[pri:0, instance:webdriver.Topic_02_Firefox_Chrome_Edge@174d20a]" name="TC_03_Run_On_Edge" duration-ms="9716" started-at="2020-09-11T23:24:00Z" finished-at="2020-09-11T23:24:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_03_Run_On_Edge -->
+      </class> <!-- webdriver.Topic_02_Firefox_Chrome_Edge -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
