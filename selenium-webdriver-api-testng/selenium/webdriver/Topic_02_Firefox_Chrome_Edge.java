@@ -28,4 +28,15 @@ public class Topic_02_Firefox_Chrome_Edge {
 
 		driver.quit();
 	}
+
+	@Test
+	public void TC_03_Run_On_Edge() {
+		System.setProperty("webdriver.edge.driver", "/Users/k3mshiro/TestAutomation/02 - Selenium API/selenium-webdriver-api-testng/browerDrivers/msedgedriver");
+		driver = new EdgeDriver();
+		
+		driver.get("https://vi-vn.facebook.com/");
+
+		driver.quit();
+
+	}
 }
