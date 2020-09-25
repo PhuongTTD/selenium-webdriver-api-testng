@@ -3,12 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="webdriver.Topic_02_Firefox_Chrome_Edge">
+      <class name="webdriver.Topic_02_Exercise_Xpath_CSS">
         <methods>
-          <include name="TC_02_Run_On_Chrome"/>
-          <include name="TC_03_Run_On_Edge"/>
+          <include name="afterMethod"/>
+          <include name="TC_02"/>
+          <include name="beforeMethod"/>
         </methods>
-      </class> <!-- webdriver.Topic_02_Firefox_Chrome_Edge -->
+      </class> <!-- webdriver.Topic_02_Exercise_Xpath_CSS -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

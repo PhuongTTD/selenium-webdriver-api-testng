@@ -1,25 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="3" passed="3">
+<testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="21835" started-at="2020-09-11T16:23:48Z" finished-at="2020-09-11T16:24:10Z">
+  <suite name="Default suite" duration-ms="26560" started-at="2020-09-25T13:32:43Z" finished-at="2020-09-25T13:33:10Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="21835" started-at="2020-09-11T16:23:48Z" finished-at="2020-09-11T16:24:10Z">
-      <class name="webdriver.Topic_02_Firefox_Chrome_Edge">
-        <test-method status="PASS" signature="TC_01_Run_On_Firefox()[pri:0, instance:webdriver.Topic_02_Firefox_Chrome_Edge@174d20a]" name="TC_01_Run_On_Firefox" duration-ms="4986" started-at="2020-09-11T23:23:48Z" finished-at="2020-09-11T23:23:53Z">
+    <test name="Default test" duration-ms="26560" started-at="2020-09-25T13:32:43Z" finished-at="2020-09-25T13:33:10Z">
+      <class name="webdriver.Topic_02_Exercise_Xpath_CSS">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:webdriver.Topic_02_Exercise_Xpath_CSS@548b7f67]" name="beforeMethod" is-config="true" duration-ms="9233" started-at="2020-09-25T20:32:43Z" finished-at="2020-09-25T20:32:52Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TC_01_Run_On_Firefox -->
-        <test-method status="PASS" signature="TC_02_Run_On_Chrome()[pri:0, instance:webdriver.Topic_02_Firefox_Chrome_Edge@174d20a]" name="TC_02_Run_On_Chrome" duration-ms="7122" started-at="2020-09-11T23:23:53Z" finished-at="2020-09-11T23:24:00Z">
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC_01()[pri:0, instance:webdriver.Topic_02_Exercise_Xpath_CSS@548b7f67]" name="TC_01" duration-ms="3211" started-at="2020-09-25T20:32:52Z" finished-at="2020-09-25T20:32:55Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TC_02_Run_On_Chrome -->
-        <test-method status="PASS" signature="TC_03_Run_On_Edge()[pri:0, instance:webdriver.Topic_02_Firefox_Chrome_Edge@174d20a]" name="TC_03_Run_On_Edge" duration-ms="9716" started-at="2020-09-11T23:24:00Z" finished-at="2020-09-11T23:24:10Z">
+        </test-method> <!-- TC_01 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:webdriver.Topic_02_Exercise_Xpath_CSS@548b7f67]" name="afterMethod" is-config="true" duration-ms="94" started-at="2020-09-25T20:32:55Z" finished-at="2020-09-25T20:32:55Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TC_03_Run_On_Edge -->
-      </class> <!-- webdriver.Topic_02_Firefox_Chrome_Edge -->
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:webdriver.Topic_02_Exercise_Xpath_CSS@548b7f67]" name="beforeMethod" is-config="true" duration-ms="9704" started-at="2020-09-25T20:32:55Z" finished-at="2020-09-25T20:33:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC_02()[pri:0, instance:webdriver.Topic_02_Exercise_Xpath_CSS@548b7f67]" name="TC_02" duration-ms="4221" started-at="2020-09-25T20:33:05Z" finished-at="2020-09-25T20:33:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_02 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:webdriver.Topic_02_Exercise_Xpath_CSS@548b7f67]" name="afterMethod" is-config="true" duration-ms="88" started-at="2020-09-25T20:33:09Z" finished-at="2020-09-25T20:33:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- webdriver.Topic_02_Exercise_Xpath_CSS -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

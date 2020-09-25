@@ -3,5 +3,6 @@
 	<classpathentry kind="src" path="selenium"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry exported="true" kind="lib" path="libraries/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libraries/xeger-1.0-SNAPSHOT.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
