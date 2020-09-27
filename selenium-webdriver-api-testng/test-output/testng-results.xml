@@ -1,33 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="26560" started-at="2020-09-25T13:32:43Z" finished-at="2020-09-25T13:33:10Z">
+  <suite name="Default suite" duration-ms="59991" started-at="2020-09-27T15:09:58Z" finished-at="2020-09-27T15:10:58Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="26560" started-at="2020-09-25T13:32:43Z" finished-at="2020-09-25T13:33:10Z">
+    <test name="Default test" duration-ms="59991" started-at="2020-09-27T15:09:58Z" finished-at="2020-09-27T15:10:58Z">
       <class name="webdriver.Topic_02_Exercise_Xpath_CSS">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:webdriver.Topic_02_Exercise_Xpath_CSS@548b7f67]" name="beforeMethod" is-config="true" duration-ms="9233" started-at="2020-09-25T20:32:43Z" finished-at="2020-09-25T20:32:52Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:webdriver.Topic_02_Exercise_Xpath_CSS@5ae9a829]" name="beforeMethod" is-config="true" duration-ms="10252" started-at="2020-09-27T22:09:58Z" finished-at="2020-09-27T22:10:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_01()[pri:0, instance:webdriver.Topic_02_Exercise_Xpath_CSS@548b7f67]" name="TC_01" duration-ms="3211" started-at="2020-09-25T20:32:52Z" finished-at="2020-09-25T20:32:55Z">
+        <test-method status="PASS" signature="TC_01()[pri:0, instance:webdriver.Topic_02_Exercise_Xpath_CSS@5ae9a829]" name="TC_01" duration-ms="3692" started-at="2020-09-27T22:10:08Z" finished-at="2020-09-27T22:10:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_01 -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:webdriver.Topic_02_Exercise_Xpath_CSS@548b7f67]" name="afterMethod" is-config="true" duration-ms="94" started-at="2020-09-25T20:32:55Z" finished-at="2020-09-25T20:32:55Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:webdriver.Topic_02_Exercise_Xpath_CSS@5ae9a829]" name="afterMethod" is-config="true" duration-ms="90" started-at="2020-09-27T22:10:12Z" finished-at="2020-09-27T22:10:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:webdriver.Topic_02_Exercise_Xpath_CSS@548b7f67]" name="beforeMethod" is-config="true" duration-ms="9704" started-at="2020-09-25T20:32:55Z" finished-at="2020-09-25T20:33:05Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:webdriver.Topic_02_Exercise_Xpath_CSS@5ae9a829]" name="beforeMethod" is-config="true" duration-ms="10044" started-at="2020-09-27T22:10:12Z" finished-at="2020-09-27T22:10:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_02()[pri:0, instance:webdriver.Topic_02_Exercise_Xpath_CSS@548b7f67]" name="TC_02" duration-ms="4221" started-at="2020-09-25T20:33:05Z" finished-at="2020-09-25T20:33:09Z">
+        <test-method status="PASS" signature="TC_02()[pri:0, instance:webdriver.Topic_02_Exercise_Xpath_CSS@5ae9a829]" name="TC_02" duration-ms="3443" started-at="2020-09-27T22:10:22Z" finished-at="2020-09-27T22:10:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_02 -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:webdriver.Topic_02_Exercise_Xpath_CSS@548b7f67]" name="afterMethod" is-config="true" duration-ms="88" started-at="2020-09-25T20:33:09Z" finished-at="2020-09-25T20:33:10Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:webdriver.Topic_02_Exercise_Xpath_CSS@5ae9a829]" name="afterMethod" is-config="true" duration-ms="93" started-at="2020-09-27T22:10:25Z" finished-at="2020-09-27T22:10:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:webdriver.Topic_02_Exercise_Xpath_CSS@5ae9a829]" name="beforeMethod" is-config="true" duration-ms="10047" started-at="2020-09-27T22:10:25Z" finished-at="2020-09-27T22:10:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC_03()[pri:0, instance:webdriver.Topic_02_Exercise_Xpath_CSS@5ae9a829]" name="TC_03" duration-ms="5088" started-at="2020-09-27T22:10:35Z" finished-at="2020-09-27T22:10:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_03 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:webdriver.Topic_02_Exercise_Xpath_CSS@5ae9a829]" name="afterMethod" is-config="true" duration-ms="90" started-at="2020-09-27T22:10:40Z" finished-at="2020-09-27T22:10:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:webdriver.Topic_02_Exercise_Xpath_CSS@5ae9a829]" name="beforeMethod" is-config="true" duration-ms="9536" started-at="2020-09-27T22:10:40Z" finished-at="2020-09-27T22:10:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC_04()[pri:0, instance:webdriver.Topic_02_Exercise_Xpath_CSS@5ae9a829]" name="TC_04" duration-ms="7514" started-at="2020-09-27T22:10:50Z" finished-at="2020-09-27T22:10:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_04 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:webdriver.Topic_02_Exercise_Xpath_CSS@5ae9a829]" name="afterMethod" is-config="true" duration-ms="92" started-at="2020-09-27T22:10:58Z" finished-at="2020-09-27T22:10:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
