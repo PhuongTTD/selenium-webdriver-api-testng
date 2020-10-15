@@ -2,6 +2,9 @@
 <classpath>
 	<classpathentry kind="src" path="selenium"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry exported="true" kind="lib" path="libraries/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libraries/selenium-server-standalone-2.53.1.jar" sourcepath="/Users/k3mshiro/TestAutomation/01 - Software/selenium-trunk.zip"/>
+	<classpathentry exported="true" kind="lib" path="libraries/automaton-1.11-8.jar"/>
+	<classpathentry exported="true" kind="lib" path="libraries/xeger-1.0.0-RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="libraries/generex-1.0.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

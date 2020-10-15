@@ -2,60 +2,36 @@
 <testng-results skipped="0" failed="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="59991" started-at="2020-09-27T15:09:58Z" finished-at="2020-09-27T15:10:58Z">
+  <suite name="Default suite" duration-ms="29257" started-at="2020-10-15T09:31:29Z" finished-at="2020-10-15T09:31:58Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="59991" started-at="2020-09-27T15:09:58Z" finished-at="2020-09-27T15:10:58Z">
-      <class name="webdriver.Topic_02_Exercise_Xpath_CSS">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:webdriver.Topic_02_Exercise_Xpath_CSS@5ae9a829]" name="beforeMethod" is-config="true" duration-ms="10252" started-at="2020-09-27T22:09:58Z" finished-at="2020-09-27T22:10:08Z">
+    <test name="Default test" duration-ms="29257" started-at="2020-10-15T09:31:29Z" finished-at="2020-10-15T09:31:58Z">
+      <class name="webdriver.Topic_04_Exercise_WebBrowser_WebElement">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:webdriver.Topic_04_Exercise_WebBrowser_WebElement@58651fd0]" name="beforeClass" is-config="true" duration-ms="9103" started-at="2020-10-15T16:31:29Z" finished-at="2020-10-15T16:31:38Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_01()[pri:0, instance:webdriver.Topic_02_Exercise_Xpath_CSS@5ae9a829]" name="TC_01" duration-ms="3692" started-at="2020-09-27T22:10:08Z" finished-at="2020-09-27T22:10:12Z">
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="TC_01_VerifyURL()[pri:0, instance:webdriver.Topic_04_Exercise_WebBrowser_WebElement@58651fd0]" name="TC_01_VerifyURL" duration-ms="5765" started-at="2020-10-15T16:31:38Z" finished-at="2020-10-15T16:31:44Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TC_01 -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:webdriver.Topic_02_Exercise_Xpath_CSS@5ae9a829]" name="afterMethod" is-config="true" duration-ms="90" started-at="2020-09-27T22:10:12Z" finished-at="2020-09-27T22:10:12Z">
+        </test-method> <!-- TC_01_VerifyURL -->
+        <test-method status="PASS" signature="TC_02_VerifyTitle()[pri:0, instance:webdriver.Topic_04_Exercise_WebBrowser_WebElement@58651fd0]" name="TC_02_VerifyTitle" duration-ms="6209" started-at="2020-10-15T16:31:44Z" finished-at="2020-10-15T16:31:50Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:webdriver.Topic_02_Exercise_Xpath_CSS@5ae9a829]" name="beforeMethod" is-config="true" duration-ms="10044" started-at="2020-09-27T22:10:12Z" finished-at="2020-09-27T22:10:22Z">
+        </test-method> <!-- TC_02_VerifyTitle -->
+        <test-method status="PASS" signature="TC_03_NavigateFunction()[pri:0, instance:webdriver.Topic_04_Exercise_WebBrowser_WebElement@58651fd0]" name="TC_03_NavigateFunction" duration-ms="5844" started-at="2020-10-15T16:31:50Z" finished-at="2020-10-15T16:31:56Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_02()[pri:0, instance:webdriver.Topic_02_Exercise_Xpath_CSS@5ae9a829]" name="TC_02" duration-ms="3443" started-at="2020-09-27T22:10:22Z" finished-at="2020-09-27T22:10:25Z">
+        </test-method> <!-- TC_03_NavigateFunction -->
+        <test-method status="PASS" signature="TC_04_GetPageSource()[pri:0, instance:webdriver.Topic_04_Exercise_WebBrowser_WebElement@58651fd0]" name="TC_04_GetPageSource" duration-ms="2234" started-at="2020-10-15T16:31:56Z" finished-at="2020-10-15T16:31:58Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TC_02 -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:webdriver.Topic_02_Exercise_Xpath_CSS@5ae9a829]" name="afterMethod" is-config="true" duration-ms="93" started-at="2020-09-27T22:10:25Z" finished-at="2020-09-27T22:10:25Z">
+        </test-method> <!-- TC_04_GetPageSource -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:webdriver.Topic_04_Exercise_WebBrowser_WebElement@58651fd0]" name="afterClass" is-config="true" duration-ms="94" started-at="2020-10-15T16:31:58Z" finished-at="2020-10-15T16:31:58Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:webdriver.Topic_02_Exercise_Xpath_CSS@5ae9a829]" name="beforeMethod" is-config="true" duration-ms="10047" started-at="2020-09-27T22:10:25Z" finished-at="2020-09-27T22:10:35Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_03()[pri:0, instance:webdriver.Topic_02_Exercise_Xpath_CSS@5ae9a829]" name="TC_03" duration-ms="5088" started-at="2020-09-27T22:10:35Z" finished-at="2020-09-27T22:10:40Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TC_03 -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:webdriver.Topic_02_Exercise_Xpath_CSS@5ae9a829]" name="afterMethod" is-config="true" duration-ms="90" started-at="2020-09-27T22:10:40Z" finished-at="2020-09-27T22:10:40Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:webdriver.Topic_02_Exercise_Xpath_CSS@5ae9a829]" name="beforeMethod" is-config="true" duration-ms="9536" started-at="2020-09-27T22:10:40Z" finished-at="2020-09-27T22:10:50Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_04()[pri:0, instance:webdriver.Topic_02_Exercise_Xpath_CSS@5ae9a829]" name="TC_04" duration-ms="7514" started-at="2020-09-27T22:10:50Z" finished-at="2020-09-27T22:10:58Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TC_04 -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:webdriver.Topic_02_Exercise_Xpath_CSS@5ae9a829]" name="afterMethod" is-config="true" duration-ms="92" started-at="2020-09-27T22:10:58Z" finished-at="2020-09-27T22:10:58Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-      </class> <!-- webdriver.Topic_02_Exercise_Xpath_CSS -->
+        </test-method> <!-- afterClass -->
+      </class> <!-- webdriver.Topic_04_Exercise_WebBrowser_WebElement -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

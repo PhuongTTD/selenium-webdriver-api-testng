@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="webdriver.Topic_02_Exercise_Xpath_CSS">
+      <class name="webdriver.Topic_04_Exercise_WebBrowser_WebElement">
         <methods>
-          <include name="afterMethod"/>
-          <include name="TC_02"/>
-          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+          <include name="TC_04_GetPageSource"/>
+          <include name="afterClass"/>
         </methods>
-      </class> <!-- webdriver.Topic_02_Exercise_Xpath_CSS -->
+      </class> <!-- webdriver.Topic_04_Exercise_WebBrowser_WebElement -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
