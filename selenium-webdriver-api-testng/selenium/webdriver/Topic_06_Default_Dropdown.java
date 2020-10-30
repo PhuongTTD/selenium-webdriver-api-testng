@@ -102,7 +102,7 @@ public class Topic_06_Default_Dropdown {
 
 	@AfterClass
 	public void afterClass() {
-		driver.quit();
+		driver.close();
 	}
 
 }
