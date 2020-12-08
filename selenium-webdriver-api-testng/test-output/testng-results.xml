@@ -1,25 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="11352" started-at="2020-10-22T07:32:51Z" finished-at="2020-10-22T07:33:03Z">
+  <suite name="Default suite" duration-ms="402182" started-at="2020-12-02T12:28:15Z" finished-at="2020-12-02T12:34:58Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="11352" started-at="2020-10-22T07:32:51Z" finished-at="2020-10-22T07:33:03Z">
-      <class name="webdriver.Topic_06_Default_Dropdown">
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:webdriver.Topic_06_Default_Dropdown@58651fd0]" name="beforeClass" is-config="true" duration-ms="4996" started-at="2020-10-22T14:32:51Z" finished-at="2020-10-22T14:32:56Z">
+    <test name="Default test" duration-ms="402182" started-at="2020-12-02T12:28:15Z" finished-at="2020-12-02T12:34:58Z">
+      <class name="webdriver.Topic_08_Button_Radio_Checkbox">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:webdriver.Topic_08_Button_Radio_Checkbox@d2cc05a]" name="beforeClass" is-config="true" duration-ms="2218" started-at="2020-12-02T19:28:15Z" finished-at="2020-12-02T19:28:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="Register()[pri:0, instance:webdriver.Topic_06_Default_Dropdown@58651fd0]" name="Register" duration-ms="6275" started-at="2020-10-22T14:32:56Z" finished-at="2020-10-22T14:33:03Z">
+        <test-method status="PASS" signature="TC_01_Button()[pri:0, instance:webdriver.Topic_08_Button_Radio_Checkbox@d2cc05a]" name="TC_01_Button" duration-ms="14898" started-at="2020-12-02T19:28:18Z" finished-at="2020-12-02T19:28:33Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Register -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:webdriver.Topic_06_Default_Dropdown@58651fd0]" name="afterClass" is-config="true" duration-ms="75" started-at="2020-10-22T14:33:03Z" finished-at="2020-10-22T14:33:03Z">
+        </test-method> <!-- TC_01_Button -->
+        <test-method status="PASS" signature="TC_02_Checkbox_Select_All()[pri:0, instance:webdriver.Topic_08_Button_Radio_Checkbox@d2cc05a]" name="TC_02_Checkbox_Select_All" duration-ms="124513" started-at="2020-12-02T19:28:33Z" finished-at="2020-12-02T19:30:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_02_Checkbox_Select_All -->
+        <test-method status="PASS" signature="TC_03_Checkbox_Custom()[pri:0, instance:webdriver.Topic_08_Button_Radio_Checkbox@d2cc05a]" name="TC_03_Checkbox_Custom" duration-ms="260438" started-at="2020-12-02T19:30:37Z" finished-at="2020-12-02T19:34:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_03_Checkbox_Custom -->
+        <test-method status="PASS" signature="TC_04_Checkbox_Default()[pri:0, instance:webdriver.Topic_08_Button_Radio_Checkbox@d2cc05a]" name="TC_04_Checkbox_Default" duration-ms="1" started-at="2020-12-02T19:34:58Z" finished-at="2020-12-02T19:34:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_04_Checkbox_Default -->
+        <test-method status="PASS" signature="TC_05_Radio()[pri:0, instance:webdriver.Topic_08_Button_Radio_Checkbox@d2cc05a]" name="TC_05_Radio" duration-ms="1" started-at="2020-12-02T19:34:58Z" finished-at="2020-12-02T19:34:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_05_Radio -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:webdriver.Topic_08_Button_Radio_Checkbox@d2cc05a]" name="afterClass" is-config="true" duration-ms="104" started-at="2020-12-02T19:34:58Z" finished-at="2020-12-02T19:34:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
-      </class> <!-- webdriver.Topic_06_Default_Dropdown -->
+      </class> <!-- webdriver.Topic_08_Button_Radio_Checkbox -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

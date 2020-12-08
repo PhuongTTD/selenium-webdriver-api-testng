@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="webdriver.Topic_06_Default_Dropdown">
+      <class name="webdriver.Topic_08_Button_Radio_Checkbox">
         <methods>
-          <include name="Register"/>
-          <include name="beforeClass"/>
+          <include name="TC_02_Checkbox_Select_All"/>
           <include name="afterClass"/>
+          <include name="beforeClass"/>
         </methods>
-      </class> <!-- webdriver.Topic_06_Default_Dropdown -->
+      </class> <!-- webdriver.Topic_08_Button_Radio_Checkbox -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
