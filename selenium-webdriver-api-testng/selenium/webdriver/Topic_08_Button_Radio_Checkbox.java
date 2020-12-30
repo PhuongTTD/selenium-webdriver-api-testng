@@ -92,16 +92,6 @@ public class Topic_08_Button_Radio_Checkbox {
 	}
 	
 	
-	@Test
-	public void TC_04_Checkbox_Default() {
-		
-	}
-	@Test
-	public void TC_05_Radio() {
-		
-	}
-	
-	
 	
 	
 	public void sleepInSecond(long timeInSecond) {
